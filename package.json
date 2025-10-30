@@ -15,10 +15,12 @@
     "@mui/icons-material": "^7.3.4",
     "@mui/material": "^7.3.4",
     "@mui/styled-engine-sc": "^7.3.3",
+    "dom": "^0.0.3",
     "formik": "^2.4.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.4",
+    "react-router-dom": "^7.9.5",
+    "router": "^2.2.0",
     "styled-components": "^6.1.19",
     "yup": "^1.7.1"
   },
